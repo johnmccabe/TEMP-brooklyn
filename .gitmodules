@@ -1,0 +1,15 @@
+[submodule "server"]
+	path = server
+	url = git@github.com:johnmccabe/TEMP-brooklyn-server.git
+[submodule "library"]
+	path = library
+	url = git@github.com:johnmccabe/TEMP-brooklyn-library.git
+[submodule "ui"]
+	path = ui
+	url = git@github.com:johnmccabe/TEMP-brooklyn-ui.git
+[submodule "docs"]
+	path = docs
+	url = git@github.com:johnmccabe/TEMP-brooklyn-docs.git
+[submodule "dist"]
+	path = dist
+	url = git@github.com:johnmccabe/TEMP-brooklyn-dist.git
